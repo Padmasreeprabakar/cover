@@ -108,7 +108,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (60).png>)
+![Uploading image.png…]()
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
